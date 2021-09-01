@@ -1,0 +1,40 @@
+.body { font-style: Arial; 
+        background-color: #ECEFF1;}
+.contenedor {
+    margin: 85%;
+    border-style: solid;
+    border-color: white;
+    padding: 0;
+    margin: auto; 
+    background-color:white;  
+    overflow:auto;
+    border-right: 10px;
+    }
+.menu {
+    padding: 1px 15px 1px 15px;
+    background-color: #363636;
+    color:white
+    }
+.banner  { 
+      width: 100%;
+      height:auto;
+    }
+.seccion  {
+    padding: 5xp 5xp 5xp 5xp;
+    margin: 10xp 10xp 10xp 10xp;
+    border-style: solid; 
+    border-color: #e0e0e0;
+    background-color: #F5F5F5;
+    overflow: auto;
+    }
+.item  {
+    margin: 8px 8px 8px 8px; 
+    width: 220px; 
+    height: 310px; 
+    border-radius: 5px;
+    float: left;
+    }
+.poster  {
+    width: 220px; 
+    height: 310px;
+    }
