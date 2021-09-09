@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e0e0e0;
+}
+a{
+   font-family: Verdana;
+   font-size: 14; 
+}
+.imagen {
+    width: 100%;
+}
+.estilo1{
+    background: color #f8f8f8;
+    color: #000;
+    border-width: #cdcdcd;
+    border-style: solid;
+    padding: 25px 25px 25px 25px;
+    width: 25%;
+    border-radius: 5px;
+    float: left;
+}
+.contenedor {
+    width: 80%;
+    border-width: 1;
+    border-color: #fff;
+    border: solid;
+    margin:auto;
+    padding: 8xp 8xp 8xp 8xp; 
+    border-radius: 5xp;
+    overflow: auto;
+}
+.sectio{
+    width: 100%;
+}
