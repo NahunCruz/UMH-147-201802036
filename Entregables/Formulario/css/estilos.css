@@ -1,0 +1,20 @@
+.body { font-style: Arial; 
+        background-color: white;}
+.contenedor {
+        width: 60%;
+        height: 100%;
+        padding: 4em;
+        margin-inline: auto; 
+        background-color:rgba(224, 223, 223, 0.281);  
+}
+.card {
+        background-color: white;
+        padding: 1em;
+        margin:auto;
+        border-top-color: rgb(187, 184, 184);
+}
+
+.form-labe {
+        background-color: white;
+        margin: 15px 12px 5px 12px;
+}
